@@ -6,3 +6,9 @@
 * Javascript
 * Typescript
 * React
+
+📷 [Instagram][Instagram] / 👨‍👨‍👧‍👦 [Linkedin][Linkedin]
+
+
+[Instagram]: https://www.instagram.com/diogo95silva/
+[Linkedin]: https://www.linkedin.com/in/diogo-silva-9769b416b/
