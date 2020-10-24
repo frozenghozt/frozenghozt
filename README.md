@@ -4,4 +4,5 @@
 * CSS
 * Sass
 * Javascript
+* Typescript
 * React
