@@ -6,6 +6,7 @@
 * Javascript
 * Typescript
 * React
+* Next
 
 📷 [Instagram][Instagram] / 👨‍👨‍👧‍👦 [Linkedin][Linkedin]
 
