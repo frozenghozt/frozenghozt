@@ -8,8 +8,7 @@
 * React
 * Next
 
-📷 [Instagram][Instagram] / 👨‍👨‍👧‍👦 [Linkedin][Linkedin]
+👦 [Linkedin][Linkedin]
 
 
-[Instagram]: https://www.instagram.com/diogo95silva/
-[Linkedin]: https://www.linkedin.com/in/diogo-silva-9769b416b/
+[Linkedin]: https://www.linkedin.com/in/diogoluissilva/
